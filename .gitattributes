@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.cmd -text
+*.ico -text
+*.woff2 -text
